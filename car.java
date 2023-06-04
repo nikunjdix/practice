@@ -77,7 +77,7 @@ class Program {
 
         Car hondaAccord = america.produceCar();
 
-        // hondaAccord.printSpeed();
+        hondaAccord.printSpeed();
         // hondaAccord.increaseSpeed(7);
         // hondaAccord.printSpeed();
         // hondaAccord.decreaseSpeed(10);
